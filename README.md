@@ -42,8 +42,8 @@ int total2 = valor3 + valor4;
 **Exemplo bom:**
 
 ```java
-int somar(int a, int b) {
-    return a + b;
+int somar(int valor1, int valor2) {
+    return valor1 + valor2;
 }
 
 int total1 = somar(valor1, valor2);
